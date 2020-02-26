@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "767329274841",
+    "firebase_url": "https://puzzles-36c20.firebaseio.com",
+    "project_id": "puzzles-36c20",
+    "storage_bucket": "puzzles-36c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767329274841:android:946fbea1a1a70634",
+        "android_client_info": {
+          "package_name": "com.WSO.FunnyAnimalsPuzzles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767329274841-fptnj8i43nv73b972vo4cv5ficegsqm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByRACiV4MAfb3HcYOumqeuqreg7vlTGzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767329274841-fptnj8i43nv73b972vo4cv5ficegsqm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
